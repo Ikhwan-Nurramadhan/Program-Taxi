@@ -1,0 +1,15 @@
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.csproj.AssemblyReference.cache
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.AssemblyInfoInputs.cache
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.AssemblyInfo.cs
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.csproj.CoreCompileInputs.cache
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\bin\Debug\net6.0\TugasTaxi.exe
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\bin\Debug\net6.0\TugasTaxi.deps.json
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\bin\Debug\net6.0\TugasTaxi.runtimeconfig.json
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\bin\Debug\net6.0\TugasTaxi.dll
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\bin\Debug\net6.0\TugasTaxi.pdb
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.dll
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\refint\TugasTaxi.dll
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.pdb
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\TugasTaxi.genruntimeconfig.cache
+D:\IN\AMIKOM\SEMESTER 2\Tugas\Pemrograman\pertemuan3\TugasTaxi\TugasTaxi\obj\Debug\net6.0\ref\TugasTaxi.dll
